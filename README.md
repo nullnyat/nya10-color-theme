@@ -1,0 +1,1 @@
+# nya10-theme
