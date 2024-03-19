@@ -1,0 +1,23 @@
+        {
+            "background": "#13141C",
+            "black": "#13141C",
+            "blue": "#96CCE7",
+            "brightBlack": "#4F5766",
+            "brightBlue": "#B0CBE7",
+            "brightCyan": "#B0E7E7",
+            "brightGreen": "#CBE8CB",
+            "brightPurple": "#CBCBE8",
+            "brightRed": "#F5BBBB",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#E8E8CB",
+            "cursorColor": "#AAD1E9",
+            "cyan": "#96E7E7",
+            "foreground": "#FFFFFF",
+            "green": "#B0E7CB",
+            "name": "NYA10",
+            "purple": "#CECEFF",
+            "red": "#FF9D9D",
+            "selectionBackground": "#BAE1F4",
+            "white": "#FFFFFF",
+            "yellow": "#E7E7B0"
+        }
